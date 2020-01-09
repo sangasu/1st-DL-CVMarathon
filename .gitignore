@@ -1,4 +1,4 @@
-
+.ipynb_checkpoints/*
 data/box.png
 data/box_in_scene.png
 data/lena.png
